@@ -1,2 +1,2 @@
 # internship
-week1 and week 2 task of internship program
+week 3  task of internship program
